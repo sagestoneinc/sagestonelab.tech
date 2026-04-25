@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://sagestonelab.tech"),
   title: "SagestoneLab.tech | Build. Test. Solve. Scale.",
   description:
     "SagestoneLab is the innovation arm of Sage Stone Inc — building AI-powered tools, automation systems, and SaaS products that power modern business growth.",
