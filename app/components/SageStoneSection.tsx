@@ -67,7 +67,7 @@ export default function SageStoneSection() {
               ever becomes a product.
             </p>
             <a
-              href="https://sagestonelab.tech"
+            href="#"
               className="inline-flex items-center gap-2 text-lab-purple hover:text-purple-400 font-medium transition-colors"
             >
               Learn about Sage Stone Inc
